@@ -10,7 +10,9 @@ Contact info:
 Email: juanestebangarciarodriguez@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-rodriguez-0a1a6647/)
+
 </div>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="100" height="100" style="margin: 10px;">
