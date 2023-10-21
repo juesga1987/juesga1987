@@ -1,4 +1,4 @@
-<p align=center><img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Frootstack.com%2Fes%2Ftechnology%2Fpython-tecnologia&psig=AOvVaw2ndixQcGUhleA0Z2NuukCc&ust=1698011615766000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCx9KyQiIIDFQAAAAAdAAAAABAE></p>
+<p align=center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png></p>
 
 
 
