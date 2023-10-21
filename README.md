@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Texto alternativo" width="100" height="100" style="margin: 10px;">
   <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="Texto alternativo" width="100" height="100" style="margin: 10px;">
-  <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Texto alternativo" width="100" height="100" style="margin: 10px;">
+  <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Texto alternativo" width="200" height="100" style="margin: 10px;">
 </div>
 
 Business Administrator, Finance Specialist, with focus on Data Science at the specialized HENRY Bootcamp.
