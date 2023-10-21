@@ -6,9 +6,9 @@
   <img src="https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2023/02/docker.png" alt="Texto alternativo" width="150" height="100" style="margin: 10px;">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wPURzJCN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q7w2ebt11gsynt7wg8cn.gif" width="150" height="100" style="margin: 10px;">
   <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" width="130" height="100" style="margin: 10px;">
-  
 </div>
 
+<div style="text-align: justify;">
 Business Administrator, Finance Specialist, with focus on Data Science at the specialized HENRY Bootcamp.
 
 I possess strategic skills when it comes to interpreting and presenting results and data at the organizational level, stemming from over 10 years of experience in financial and administrative areas, now enhanced by proficiency in tools such as Python, MySQL, PowerBi, Power Query, and Big Data environments. This proficiency allows me to make rational, objective, and effective decisions.
@@ -20,3 +20,4 @@ Please reach me at:
 Email: juanestebangarciarodriguez@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-rodriguez-0a1a6647/)
+</div>
