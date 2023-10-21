@@ -6,6 +6,5 @@ I am committed to achieving results, formulating solutions in line with the orga
 
 Please reach me at:
 
-Email: juanestebangarciarodriguez@gmail.com
-
-Linkedin: https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-rodriguez-0a1a6647/
+[Email](juanestebangarciarodriguez@gmail.com)
+[Linkedin](https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-rodriguez-0a1a6647/)
