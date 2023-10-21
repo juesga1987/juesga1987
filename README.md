@@ -1,5 +1,4 @@
-<p align=center><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png></p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Texto alternativo" width="300" height="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Texto alternativo" width="100" height="100" />
 
 
 Business Administrator, Finance Specialist, with focus on Data Science at the specialized HENRY Bootcamp.
