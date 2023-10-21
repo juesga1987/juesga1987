@@ -4,5 +4,8 @@ I possess strategic skills when it comes to interpreting and presenting results 
 
 I am committed to achieving results, formulating solutions in line with the organization's objectives with a focus on continuous improvement. I actively contribute to the development of new ideas that enable the organization to increase its value and meet the needs of clients and stakeholders responsibly, professionally, and in a humane, respectful manner, all while emphasizing service and teamwork.
 
+Please reach me at:
+
 Email: juanestebangarciarodriguez@gmail.com
+
 Linkedin: https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-rodriguez-0a1a6647/
