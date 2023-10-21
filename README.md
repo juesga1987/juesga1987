@@ -8,6 +8,7 @@
   <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" width="130" height="100" style="margin: 10px;">
 </div>
 
+
 <div style="text-align: justify;">
 Business Administrator, Finance Specialist, with focus on Data Science at the specialized HENRY Bootcamp.
 
