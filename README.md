@@ -1,13 +1,12 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Texto alternativo" width="100" height="100" style="margin: 10px;">
-  <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="Texto alternativo" width="100" height="100" style="margin: 10px;">
-  <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Texto alternativo" width="200" height="100" style="margin: 10px;">
-  <img src="https://ticnegocios.camaravalencia.com/wp-content/uploads/2017/09/machine-learning-espana.jpg" alt="Texto alternativo" width="150" height="100" style="margin: 10px;">
-  <img src="https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2023/02/docker.png" alt="Texto alternativo" width="150" height="100" style="margin: 10px;">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wPURzJCN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q7w2ebt11gsynt7wg8cn.gif" width="150" height="100" style="margin: 10px;">
-  <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" width="130" height="100" style="margin: 10px;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="100" height="100" style="margin: 10px;">
+    <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="Reddit" width="100" height="100" style="margin: 10px;">
+    <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI" width="200" height="100" style="margin: 10px;">
+    <img src="https://ticnegocios.camaravalencia.com/wp-content/uploads/2017/09/machine-learning-espana.jpg" alt="Machine Learning" width="150" height="100" style="margin: 10px;">
+    <img src="https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2023/02/docker.png" alt="Docker" width="150" height="100" style="margin: 10px;">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wPURzJCN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https/dev-to-uploads.s3.amazonaws.com/uploads/articles/q7w2ebt11gsynt7wg8cn.gif" alt="GIF" width="150" height="100" style="margin: 10px;">
+    <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" alt="Azure" width="130" height="100" style="margin: 10px;">
 </div>
-
 
 <div style="text-align: justify;">
 Business Administrator, Finance Specialist, with a focus on Data Science at the specialized HENRY Bootcamp.
