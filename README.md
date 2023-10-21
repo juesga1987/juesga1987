@@ -11,7 +11,9 @@ Email: juanestebangarciarodriguez@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-rodriguez-0a1a6647/)
 
+
 </div>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
